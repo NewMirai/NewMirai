@@ -3,7 +3,7 @@
 
 ## Projects
 
-- 📝 [Blog](https://main.d2rw5vv1m7w5eo.amplifyapp.com/) - My personal blog where I plan to start posting regularly various technical subjects. Stay tuned !
+- 📝 [Blog](https://main.d2rw5vv1m7w5eo.amplifyapp.com/) - My personal blog where I plan to start posting on regularly various technical subjects. Stay tuned !
 - 📊 [Tidytuesday gallery](https://github.com/aanghelidi/Tidytuesday) - Participation to the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge
 - 🤓 [AOC](https://adventofcode.com/): 2020 ([Julia](https://julialang.org/)), 2021 ([Golang](https://go.dev/))
 
