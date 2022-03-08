@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 I'm a Machine Learning Operations Engineer (MLops) currently working at [Fieldbox.ai](https://www.fieldbox.ai/). Welcome to my repository!
 
-<!--
-**NewMirai/NewMirai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 [Blog](https://main.d2rw5vv1m7w5eo.amplifyapp.com/) - My personal blog where I plan to start posting regularly various technical subjects. Stay tuned !
+- 📊 [Tidytuesday gallery](https://github.com/aanghelidi/Tidytuesday) - Participation to the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge
+- 🤓 [AOC](https://adventofcode.com/): 2020 ([Julia](https://julialang.org/)), 2021 ([Golang](https://go.dev/))
+
+## Configuration
+
+Repositories containing various setup to be reused in new environments
+
+- 📃 Personal [Emacs configuration](https://github.com/aanghelidi/dotemacs)
