@@ -1,4 +1,4 @@
-👋 I'm a Machine Learning Operations Engineer (MLops) currently working at [Fieldbox.ai](https://www.fieldbox.ai/). Welcome to my repository!
+👋 I'm currently working as a Machine Learning Operations Engineer (MLops) in the Aerospace industry. Welcome to my repository!
 
 
 ## Projects
