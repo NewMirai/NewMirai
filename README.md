@@ -1,8 +1,3 @@
-👋 I'm currently working as a Machine Learning Operations Engineer (MLops) in the Aerospace industry. Welcome to my Github!
+# 👋 Hey I'm Alain
 
-## Configuration
-
-Repositories containing various setup to be reused in new environments
-
-- 📃 Personal [Emacs configuration](https://github.com/aanghelidi/dotemacs)
-- 📃 Personal [dotfiles management](https://github.com/aanghelidi/dotfiles)
+I'm a engineer currently working as a Machine Learning Engineer in the Aerospace industry. Welcome to my Github!
